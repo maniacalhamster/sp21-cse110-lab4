@@ -61,29 +61,29 @@ Part 1B: A Little More of a Challenge
 
 ## Date Types
 12. 
-    A. student.name;
-    B. student['Grad Year'];
-    C. student.greeting();
-    D. student['Favorite Teacher'].name;
+    A. student.name;  
+    B. student['Grad Year'];  
+    C. student.greeting();  
+    D. student['Favorite Teacher'].name;  
     E. student.courseLoad[0];
 
 ## Basic Operators & Type Conversion
 13. 
-    A. `'3' + 2         = '32'`
-    B. `'3' - 2         = 1`
-    C. `3 + null        = 3`
-    D. `'3' + null      = '3null'`
-    E. `true + 3        = 4`
-    F. `false + null    = 0`
-    G. `'3' + undefined = '3undefined'`
+    A. `'3' + 2         = '32'`  
+    B. `'3' - 2         = 1`  
+    C. `3 + null        = 3`  
+    D. `'3' + null      = '3null'`  
+    E. `true + 3        = 4`  
+    F. `false + null    = 0`  
+    G. `'3' + undefined = '3undefined'`  
     H. `'3' - undefined = NaN`
 
 14. 
-    A. `('2' > 1)             = true`
-    B. `('2' < '12')          = false`
-    C. `(2 == '2')            = true`
-    D. `(2 === '2')           = false`
-    E. `(true == 2)           = false`
+    A. `('2' > 1)             = true`  
+    B. `('2' < '12')          = false`  
+    C. `(2 == '2')            = true`  
+    D. `(2 === '2')           = false`  
+    E. `(true == 2)           = false`  
     F. `(true === Boolean(2)) = true`
 
 15. `==` performs a comparison after type converting. `===` performs comparison
@@ -104,7 +104,7 @@ Part 1B: A Little More of a Challenge
 18. code written in `part1b-question18.js`.
 
 19. The code will output:
-1
-4
-3
+1  
+4  
+3  
 2
