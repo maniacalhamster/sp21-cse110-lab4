@@ -103,7 +103,7 @@ Part 1B: A Little More of a Challenge
 ## setInterval(), setTimeout(), clearTimeout()
 18. code written in `part1b-question18.js`.
 
-19. The code will output:
+19. The code will output:  
 1  
 4  
 3  
